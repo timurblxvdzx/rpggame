@@ -1,0 +1,5 @@
+C:\Users\CSharpSila\source\repos\WindowsFormsApp1\Models\bin\Debug\Models.dll
+C:\Users\CSharpSila\source\repos\WindowsFormsApp1\Models\bin\Debug\Models.pdb
+C:\Users\CSharpSila\source\repos\WindowsFormsApp1\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\CSharpSila\source\repos\WindowsFormsApp1\Models\obj\Debug\Models.dll
+C:\Users\CSharpSila\source\repos\WindowsFormsApp1\Models\obj\Debug\Models.pdb
