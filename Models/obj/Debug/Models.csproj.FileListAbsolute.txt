@@ -3,3 +3,9 @@ C:\Users\CSharpSila\source\repos\WindowsFormsApp1\Models\bin\Debug\Models.pdb
 C:\Users\CSharpSila\source\repos\WindowsFormsApp1\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Users\CSharpSila\source\repos\WindowsFormsApp1\Models\obj\Debug\Models.dll
 C:\Users\CSharpSila\source\repos\WindowsFormsApp1\Models\obj\Debug\Models.pdb
+D:\rpg game\Models\bin\Debug\Models.dll
+D:\rpg game\Models\bin\Debug\Models.pdb
+D:\rpg game\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\rpg game\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\rpg game\Models\obj\Debug\Models.dll
+D:\rpg game\Models\obj\Debug\Models.pdb
